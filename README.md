@@ -1,8 +1,7 @@
 ### Hi there! I am ✨ Romen Samuel Wabina ✨, a current PhD student in Data Science in Healthcare and Clinical Informatics.
-- 🔭 I’m currently working as a part-time lecturer in University of Science and Technology of the Philippines in Computational Statistics
-- 🌱 I’m currently learning Natural Language Processing and Clinical Informatics
-- 👯 I’m looking to collaborate on Computer Vision annd Dynamical Systems
-- 📫 How to reach me: @rrwabina
+- 🔭 Part-time lecturer (Computational Statistics) in University of Science and Technology of the Philippines 
+- 🌱 Interested in Computer Vision, Bioinformatics, and Dynamical Systems
+- 📫 @rrwabina
 - ⚡ Fun fact: I am a deutan colorblind. I cannot distinguish red and green!
 <!--
 **rrwabina/rrwabina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
