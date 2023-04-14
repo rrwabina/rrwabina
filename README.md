@@ -3,7 +3,7 @@
 - 🌱 Interested in Computer Vision, Uncertainty Quantification, and Dynamical Systems
 - 👀 Trying to be good at Natural Language Processing, Bioinformatics, and Clinical Informatics
 - 📫 @rrwabina
-- ⚡ Fun fact: I am a deutan colorblind. I cannot distinguish red and green!
+- ⚡ Fun fact: I am a deutan colorblind. I cannot distinguish red and green! Maybe this is the reason why I love computer vision.
 <!--
 **rrwabina/rrwabina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
