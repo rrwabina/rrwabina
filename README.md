@@ -1,6 +1,6 @@
 ### Hi there! I am ✨ Romen Samuel Wabina ✨, a PhD student in Data Science in Healthcare and Clinical Informatics.
 - 🔭 Part-time lecturer (Computational Statistics | Deep Learning | Computer Vision) in University of Science and Technology of the Philippines
-- 🔭 Research Assistant in Clinical Epidemiology and Biostatistics (PM2.5 Project and Chronic Kidney Disease (CKD) Project)
+- 🔭 Data Scientist in the Department of Clinical Epidemiology and Biostatistics (main projects: CKD Data Warehouse, Feature Extraction using Large Language Models)
 - 🌱 Specialty: Computer Vision, Uncertainty Quantification, Optimization, and Dynamical Systems
 - 👀 Areas of Interest: Natural Language Processing, Reinforcement Learning, Bioinformatics, and Clinical Informatics
 - 📫 @rrwabina
