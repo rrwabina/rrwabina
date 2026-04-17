@@ -1,4 +1,4 @@
-### Hi there! I am ✨ Romen Samuel Wabina ✨, a PhD student in Data Science in Healthcare and Clinical Informatics.
+
 - 🔭 Data Scientist, Department of Clinical Epidemiology and Biostatistics
 - 🔭 Data Scientist, Credit and Fraud Strategy, Honest Technologies
 - 🌱 Specialty: Computer Vision, Uncertainty Quantification, Optimization, and Dynamical Systems
