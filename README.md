@@ -1,5 +1,5 @@
 
-- 🔭 Data Scientist, Department of Clinical Epidemiology and Biostatistics
+- 🔭 Data Scientist, Ramathibodi Hospital
 - 🔭 Data Scientist, Credit and Fraud Strategy, Honest Technologies
 - 🌱 Specialty: Computer Vision, Uncertainty Quantification, Optimization, and Dynamical Systems
 - 👀 Areas of Interest: Natural Language Processing, Reinforcement Learning, Bioinformatics, and Clinical Informatics
